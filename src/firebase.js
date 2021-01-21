@@ -2,12 +2,12 @@ import firebase from 'firebase';
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: 'AIzaSyDcEjprZB1l8J2GFUmZAzHoFzN3FlzsyhE',
-  authDomain: 'phone-auth-503a4.firebaseapp.com',
-  projectId: 'phone-auth-503a4',
-  storageBucket: 'phone-auth-503a4.appspot.com',
-  messagingSenderId: '580293002708',
-  appId: '1:580293002708:web:c2ea49b705c159d166c241',
+  apiKey: 'AIzaSyCj0A31Pt4KE6pZLqhqrvotrdPjivVVqlU',
+  authDomain: 'phone-auth-d40f3.firebaseapp.com',
+  projectId: 'phone-auth-d40f3',
+  storageBucket: 'phone-auth-d40f3.appspot.com',
+  messagingSenderId: '285264375703',
+  appId: '1:285264375703:web:5c04dbafccee6116681ed2',
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
